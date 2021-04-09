@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AssistantQ</string>
+    <string name="first_message">Hello</string>
+    <string name="second_message">Can You Tell me something?</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">6601a1285b7cf277d6a2c16a35fb80c0</string>
+    <string name="title_welcome">Selamat Datang Di AssistantQ</string>
+    <string name="title_sub_welcome">Aplikasi Speech recognition sederhana yang akan membantu keseharian anda.</string>
+    <string name="title_start">Mulai</string>
+</resources>
